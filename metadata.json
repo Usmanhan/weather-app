@@ -1,0 +1,10 @@
+{
+  "name": "Barakah Weather & Nimaz",
+  "description": "Aesthetic weather dashboard with real-time worldwide forecasts, customizable widgets, precise Qibla finder compass, and customizable Nimaz (prayer) timings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
